@@ -15,12 +15,12 @@ A simple and intuitive mobile Rock Paper Scissors game built using **Android** a
 
 ## 📸 Screenshots
 
-| Game Interface                                       |
-|------------------------------------------------------|
-| ![Gameplay](StartPage.png) |
-| ![Gameplay](ComputerWon.png) |
-| ![Gameplay](PlayerWon.png) |
-| ![Gameplay](draw.png) |
+<p align="center">
+  <img src="StartPage.png" alt="Start Page" width="200"/>
+  <img src="ComputerWon.png" alt="Computer Won" width="200"/>
+  <img src="PlayerWon.png" alt="Player Won" width="200"/>
+  <img src="draw.png" alt="Draw" width="200"/>
+</p>
 
 ## 🔧 Tech Stack
 
