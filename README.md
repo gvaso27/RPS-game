@@ -17,10 +17,10 @@ A simple and intuitive mobile Rock Paper Scissors game built using **Android** a
 
 | Game Interface                                       |
 |------------------------------------------------------|
-| ![Gameplay](Screenshot from 2025-05-19 19-12-16.png) |
-| ![Gameplay](Screenshot from 2025-05-19 19-12-21.png) |
-| ![Gameplay](Screenshot from 2025-05-19 19-12-26.png) |
-| ![Gameplay](Screenshot from 2025-05-19 19-12-32.png) |
+| ![Gameplay](StartPage.png) |
+| ![Gameplay](ComputerWon.png) |
+| ![Gameplay](PlayerWon.png) |
+| ![Gameplay](draw.png) |
 
 ## 🔧 Tech Stack
 
